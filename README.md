@@ -1,6 +1,6 @@
 # Product Management System
 
-A simple product management system built with Spring Boot, offering basic CRUD operations for products.
+A simple product management system built with Spring Boot, offering basic CRUD operations for products. Using H2 DB for easier testing.
 
 ## Features
 - Add, update, delete, and search products.
