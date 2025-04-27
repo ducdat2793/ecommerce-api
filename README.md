@@ -21,7 +21,7 @@ A simple product management system built with Spring Boot, offering basic CRUD o
    cd ecommerce-api
 3. Run the application:
    ```
-   ./mvnw spring-boot:run
+   mvn spring-boot:run
 
 
 # Swagger
